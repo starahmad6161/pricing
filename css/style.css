@@ -27,7 +27,7 @@
 {
     position: absolute;
     top: 15px;
-    right: 15px;
+    right: 7px;
     transform: rotateZ(45deg);
     font-size: 1.3rem;
 }
